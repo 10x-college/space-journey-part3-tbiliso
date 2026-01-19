@@ -462,7 +462,7 @@ h1.glow-text {
   }
 }
 
-.ingredients-overlay h4 {
+.ingredients-overlay h3 {
   font-family: var(--font-heading);
   margin-bottom: 15px;
   font-size: 1rem;
